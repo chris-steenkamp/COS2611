@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1504627592 source:d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\main.cpp
+	<iostream>
+	<cassert>
+	"unorderedlinkedlist.h"
+
+1504620443 d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\include\unorderedlinkedlist.h
+	"linkedlisttype.h"
+
+1504627352 d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\include\linkedlisttype.h
+	<iostream>
+	<cassert>
+	"nodetype.h"
+	"linkedlistiterator.h"
+
+1504620826 d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\include\nodetype.h
+
+1504620769 d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\include\linkedlistiterator.h
+
+1504618919 source:d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\src\linkedlistiterator.cpp
+	<iostream>
+	"linkedlistiterator.h"
+
+1504619693 source:d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\src\linkedlisttype.cpp
+	<iostream>
+	"linkedlisttype.h"
+	"nodetype.h"
+	"cassert"
+
+1504614769 source:d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\src\nodetype.cpp
+	"nodetype.h"
+
+1504619907 source:d:\onedrive\studies\2017\semester 2\cos2611\assignments\assignment 02\question1.2\src\unorderedlinkedlist.cpp
+
